@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm currently learning python,looking forward to learn other languages
 
 <!--
 **husbill/husbill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
